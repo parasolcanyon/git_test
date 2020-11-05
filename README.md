@@ -1,0 +1,1 @@
+This is seungjin's first Git project!
